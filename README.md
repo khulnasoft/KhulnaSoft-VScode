@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="300" alt="Khulnasoft" src="khulnasoft.svg"/>
-</p>
+# KhulnaSoft Visual Studio
 
 ---
 
